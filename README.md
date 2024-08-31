@@ -8,7 +8,7 @@ Primeiramente gostaria muito de agradecer a oportunidade de participar desta inc
 ## Informações para rodar o código no Google Colab
 
 O código todo em Python foi feito através do Google Colab, sendo dividido em `analise_api.ipynb` e `analise_python.ipynb`. 
-Se necessário, na pasta `APIs` aqui no repositório do Github, estão as APIs importadas que foram utilizadas através do Google Drive para solucionar os problemas em `analise_api.ipynb`.
+Se necessário, no arquivo `APIs.zip` aqui no repositório do Github, estão as APIs importadas que foram utilizadas através do Google Drive para solucionar os problemas em `analise_api.ipynb`.
 Para que seja possível o acesso ao projeto na GCP, foram dadas as devidas permissões.
 
 ### Análise SQL
