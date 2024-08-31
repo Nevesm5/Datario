@@ -1,14 +1,14 @@
-Desafio Técnico - Cientista de Dados Júnior
+# Desafio Técnico - Cientista de Dados Júnior
 Descrição
 Bem-vindo ao desafio técnico para a vaga de Cientista de Dados Júnior no campo de soluções de tecnologia e de Governo Digital para área pública no Rio de Janeiro! A data limite do seu último commit no repositório é de 01/09/2024 às 23:59 UTC-3.
 
-Objetivo
+# Objetivo
 O objetivo deste desafio é avaliar suas habilidades técnicas em manipulação de dados, análises exploratórias, integração com APIs, consulta SQL no Big Query, análise e visualização de dados.
 
-Observação
+# Observação
 É esperado que você possa não ter tido contato prévio com algumas das tecnologias solicitadas no desafio, e isso é intencional. Parte da avaliação consiste em verificar se você é capaz de aprender rapidamente e produzir resultados após estudar as tecnologias por algum tempo. Por essa razão, o desafio tem uma duração de 13 dias, permitindo que você tenha tempo para estudar e aprender antes de enviar suas respostas.
 
-Conjunto de Dados
+# Conjunto de Dados
 Os conjuntos de dados que serão utilizados neste desafio são:
 
 Chamados do 1746: Dados relacionados a chamados de serviços públicos na cidade do Rio de Janeiro. O caminho da tabela é : datario.adm_central_atendimento_1746.chamado
