@@ -19,8 +19,7 @@ Foram dados os devidos acessos de leitor no IAM da Google GCP para o email: escr
 ## Dashboard
 
 O Dashboard foi feito utilizando o Microsoft Power BI. Para isso, os dados foram importados da GCP diretamente após as consultas em SQL.
-O link do Dashboard pode ser acessado em :
-<link> 
+O arquivo contendo o Dashbard completo está neste repositório como nome `ProjetoDataRio`.
 
 ## Conclusão
 
