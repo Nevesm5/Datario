@@ -17,7 +17,7 @@ No arquivo `analise_sql.sql`constam as perguntas, bem como os códigos em SQL ut
 Foram dados os devidos acessos de leitor no IAM da Google GCP para o email: escritoriodedados@gmail.com , para que seja possível acessar as consultas na BigQuery, as tabelas importadas da `basedosdados` e também o projeto cujo o nome na cloud é `projetodadosrio`
 
 ## Dashboard
-
+Publicado em URL https://app.powerbi.com/view?r=eyJrIjoiNGFkMjJiYjItZmNmYy00OWMzLWFmNmEtMjQ0M2YxYzA0ODRhIiwidCI6IjI2YmRiOTAxLTIzNDgtNDdkZC1iNzRiLTk2MzJlMWYyZTA0MiJ9
 O Dashboard foi feito utilizando o Microsoft Power BI. Para isso, os dados foram importados da GCP diretamente após as consultas em SQL.
 O arquivo contendo o Dashbard completo está neste repositório como nome `ProjetoDataRio.pbix`.
 Uma pré visualização também foi adicionada como `ProjetoDataRio.pdf`
